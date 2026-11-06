@@ -1,0 +1,57 @@
+name: "🐛 Relatar um bug / Report a bug"
+description: "Informe um problema encontrado no jogo / Tell us about a problem in the game"
+title: "[BUG] "
+labels: ["bug", "demo"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Obrigado por ajudar a melhorar o jogo! Não inclua senhas ou dados pessoais.
+        Thanks for helping improve the game! Do not include passwords or personal data.
+  - type: input
+    id: game_version
+    attributes:
+      label: "Versão do jogo / Game version"
+      placeholder: "Ex.: 0.1.0-demo"
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: "Dispositivo / Device"
+      placeholder: "Ex.: Samsung Galaxy..."
+    validations:
+      required: true
+  - type: input
+    id: android
+    attributes:
+      label: "Versão do Android / Android version"
+      placeholder: "Ex.: Android 13"
+    validations:
+      required: false
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Como reproduzir / Steps to reproduce"
+      description: "Explique passo a passo como o problema acontece."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: "Resultado esperado / Expected behavior"
+    validations:
+      required: true
+  - type: textarea
+    id: actual
+    attributes:
+      label: "O que aconteceu? / What happened?"
+    validations:
+      required: true
+  - type: textarea
+    id: media
+    attributes:
+      label: "Imagens ou vídeos / Screenshots or videos"
+      description: "Anexe imagens ou vídeos que ajudem a entender o problema."
+    validations:
+      required: false
