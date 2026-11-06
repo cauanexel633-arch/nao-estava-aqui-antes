@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/capa.png" alt="Não estava aqui antes — capa oficial" width="100%">
+<img src="assets/capa.webp" alt="Não estava aqui antes — capa oficial" width="100%">
 
 # NÃO ESTAVA AQUI ANTES
 
@@ -68,16 +68,19 @@ Acompanhe a página [Releases](../../releases) para encontrar o arquivo e as ins
 
 ## 🖼️ Screenshots
 
-As capturas reais de gameplay serão adicionadas aqui antes ou durante o lançamento. As imagens devem representar a versão atual do jogo.
+As imagens abaixo apresentam dois ambientes visuais do universo do jogo. **São imagens de ambientação e não devem ser interpretadas como capturas reais de gameplay**, a menos que correspondam à versão jogável.
 
-<!-- Substitua os caminhos abaixo por capturas reais do jogo quando forem adicionadas. -->
-| Cena 01 | Cena 02 |
-|---|---|
-| *Screenshot em breve* | *Screenshot em breve* |
+<div align="center">
+<img src="assets/screenshots/banheiro_abandonado.webp" alt="Ambiente de banheiro abandonado" width="100%">
+<em>Ambiente 01 — Banheiro abandonado</em>
+</div>
 
-| Cena 03 | Cena 04 |
-|---|---|
-| *Screenshot em breve* | *Screenshot em breve* |
+<div align="center">
+<img src="assets/screenshots/corredor_chines.webp" alt="Corredor chinês abandonado" width="100%">
+<em>Ambiente 02 — Corredor chinês</em>
+</div>
+
+Capturas reais de gameplay poderão ser adicionadas posteriormente.
 
 ## 🐛 Encontrou um bug?
 
@@ -160,15 +163,19 @@ Visit [Releases](../../releases) for the file and installation instructions when
 
 ## 🖼️ Screenshots
 
-Real gameplay screenshots will be added here before or during launch. Images should represent the current build of the game.
+The images below showcase two visual environments from the game's universe. **They are environment artwork, not confirmed gameplay screenshots**, unless they match the playable build.
 
-| Scene 01 | Scene 02 |
-|---|---|
-| *Screenshot coming soon* | *Screenshot coming soon* |
+<div align="center">
+<img src="assets/screenshots/banheiro_abandonado.webp" alt="Abandoned bathroom environment" width="100%">
+<em>Environment 01 — Abandoned bathroom</em>
+</div>
 
-| Scene 03 | Scene 04 |
-|---|---|
-| *Screenshot coming soon* | *Screenshot coming soon* |
+<div align="center">
+<img src="assets/screenshots/corredor_chines.webp" alt="Abandoned Chinese corridor" width="100%">
+<em>Environment 02 — Abandoned Chinese corridor</em>
+</div>
+
+Real gameplay screenshots may be added later.
 
 ## 🐛 Found a bug?
 
