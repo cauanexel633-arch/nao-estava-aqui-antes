@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/capa.webp" alt="Não estava aqui antes — capa oficial" width="100%">
+<img src="assets/capa.png" alt="Não estava aqui antes — capa oficial" width="100%">
 
 # NÃO ESTAVA AQUI ANTES
 
@@ -71,12 +71,12 @@ Acompanhe a página [Releases](../../releases) para encontrar o arquivo e as ins
 As imagens abaixo apresentam dois ambientes visuais do universo do jogo. **São imagens de ambientação e não devem ser interpretadas como capturas reais de gameplay**, a menos que correspondam à versão jogável.
 
 <div align="center">
-<img src="assets/screenshots/banheiro_abandonado.webp" alt="Ambiente de banheiro abandonado" width="100%">
+<img src="assets/screenshots/screenshot_01.png" alt="Ambiente de banheiro abandonado" width="100%">
 <em>Ambiente 01 — Banheiro abandonado</em>
 </div>
 
 <div align="center">
-<img src="assets/screenshots/corredor_chines.webp" alt="Corredor chinês abandonado" width="100%">
+<img src="assets/screenshots/screenshot_02.png" alt="Corredor chinês abandonado" width="100%">
 <em>Ambiente 02 — Corredor chinês</em>
 </div>
 
@@ -166,12 +166,12 @@ Visit [Releases](../../releases) for the file and installation instructions when
 The images below showcase two visual environments from the game's universe. **They are environment artwork, not confirmed gameplay screenshots**, unless they match the playable build.
 
 <div align="center">
-<img src="assets/screenshots/banheiro_abandonado.webp" alt="Abandoned bathroom environment" width="100%">
+<img src="assets/screenshots/screenshot_01.png" alt="Abandoned bathroom environment" width="100%">
 <em>Environment 01 — Abandoned bathroom</em>
 </div>
 
 <div align="center">
-<img src="assets/screenshots/corredor_chines.webp" alt="Abandoned Chinese corridor" width="100%">
+<img src="assets/screenshots/screenshot_02.png" alt="Abandoned Chinese corridor" width="100%">
 <em>Environment 02 — Abandoned Chinese corridor</em>
 </div>
 
