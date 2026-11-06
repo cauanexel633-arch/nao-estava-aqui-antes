@@ -72,12 +72,12 @@ As imagens abaixo apresentam dois ambientes visuais do universo do jogo. **São 
 
 <div align="center">
 <img src="assets/screenshots/screenshot_01.png" alt="Ambiente de banheiro abandonado" width="100%">
-<em>Ambiente 01 — Banheiro abandonado</em>
+<em>Ambiente 01 — Sala destruida pelo o tempo</em>
 </div>
 
 <div align="center">
 <img src="assets/screenshots/screenshot_02.png" alt="Corredor chinês abandonado" width="100%">
-<em>Ambiente 02 — Corredor chinês</em>
+<em>Ambiente 02 — Parte de fora de uma casa brasileiras</em>
 </div>
 
 Capturas reais de gameplay poderão ser adicionadas posteriormente.
